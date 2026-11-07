@@ -12,7 +12,7 @@ void main() {
     // Print the following lines, each with a separate `println()` statement:
     // The robot knows where it is at all times.
     // It knows this because it knows where it isn't.
-    System.out.println("The robot knows where it is at all times");
+    System.out.println(" The robot knows where it is at all times");
     System.out.println("It knows this because it knows where it isn't");
     
 
